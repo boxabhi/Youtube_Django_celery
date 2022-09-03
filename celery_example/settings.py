@@ -162,8 +162,8 @@ CELERY_TASK_SELERLIZER = 'json'
 
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'cricketacademyofpathanslucknow@gmail.com'
-EMAIL_HOST_PASSWORD = 'hello@cap'
+EMAIL_HOST_USER = ''
+EMAIL_HOST_PASSWORD = ''
 EMAIL_PORT = 587
 EMAIL_USE_SSL = False
 
